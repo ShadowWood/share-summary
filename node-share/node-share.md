@@ -33,10 +33,28 @@ Node.js is a JavaScript runtime built on Chrome's `V8` JavaScript `engine`.
 Node.js uses an `event-driven`, `non-blocking I/O model` that makes it lightweight and efficient
 
 =====
+
+## 安装Node.js
+
+- 官网下载安装文件直接安装(windows or mac os)
+- 源码安装(linux)
+- 使用版本管理工具安装(nvm)
+
+=====
+
 ## npm 和 nvm
 
 + npm(Node.js package manager), yarn
 + nvm(Node.js version manager)
+
+=====
+
+## IDE
+
+- webstorm(插件丰富)
+- subline
+- vscode(推荐)
+- vim
 
 =====
 
