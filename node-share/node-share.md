@@ -289,6 +289,12 @@ var asyncReadFile = async function (){
 
 ## thinkJS
 
+
+## sails
+
+
+## egg
+
 [slide]
 
 
@@ -299,6 +305,14 @@ var asyncReadFile = async function (){
 
 
 ## webpack
+
+[slide]
+
+# 测试工具
+
+## mocha
+
+## chai
 
 
 [slide]
